@@ -1,0 +1,57 @@
+.navzim{background-color: #dcdcdcdc; height: 40px;}
+
+.azulzim{color: #007FFF; margin-top: 8px;}
+
+.vermeim{color: #b81414; margin-top: 8px; margin-left: 13px;}
+
+.verdim{color: green; margin-top: 8px; margin-left: 13px;}
+
+.laranjim{color: orange; margin-top: 8px; margin-left: 13px;}
+
+.azulzao{color: #007FFF; margin-top: 8px; margin-left: 13px;}
+
+nav{background-color: #b81414; color: white; height: 70px;}
+
+.cabecalho{margin-top: 22px; text-align: center;}
+
+.inputim{background-color: #951e15; color: white; border: none;}
+
+.pesquisim{margin-top: 17px; text-align: center;}
+
+.chato{width: 800px; margin-top: 90px;}
+
+.cabecalhim{font-size: 30px; margin-top: 10px; text-align: center;}
+
+.presidente{font-size: 50px}
+
+.progress{height: 7px;}
+
+div .progress-bar{width: 90%;}
+
+div .nove{float: right; margin-top: 20px; font-size: 25px;color: #6B6B6B;}
+
+.textim{margin-top: 10px; color: #6B6B6B; font-size: 17px;}
+
+.candidatos{font-size: 25px; margin-top: 50px;}
+
+.linhazim{margin-top: 25px; margin-left: 0px; margin-right: 0px; margin-bottom: 50px;}
+
+.imagem{height: 65px; border-color: grey;}
+
+.nomezim{margin-left: 15px; font-size: 17px;}
+
+.partidim{color: lightgrey; margin-left: 15px; font-size: 17px;}
+
+.barra{width: 690px; height: 5px; margin-left: 80px;}
+
+.votim{color: lightgrey; font-size: 17px;}
+
+.porcentagenzim{font-size: 20px;}
+
+.esquerda{float: left;}
+
+.direita{float:right; text-align: right;}
+
+.divis{width: 90%;}
+
+.butaozim{border: solid; color: #2b961f;}
